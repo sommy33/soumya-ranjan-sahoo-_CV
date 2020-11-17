@@ -1,0 +1,129 @@
+body{
+margin: 0;
+text-align: center;
+font-size: 18px;
+}
+h1{
+  font-family: Dancing Script,cursive;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+hr{
+  border-style: none;
+  border-top: dotted;
+  border-width: 5px;
+  width: 5%;
+  color: grey;
+}
+a{
+  text-decoration: none;
+  padding: 0 10px;
+}
+a:hover{
+  color: white;
+}
+.cloud-top{
+  position: absolute;
+  padding-top: 30px;
+  left: 1000px;
+}
+.cloud-bottom{
+  position: absolute;
+}
+.top{
+  background-color: #dbf6e9;
+position: relative;
+padding-top:100px;
+}
+.sommy{
+font-size: 90px;
+margin : 0 auto 0 auto ;
+color: #66BFBF;
+}
+.hellothere{
+  font-size: 10px;
+}
+.webdeveloper{
+  font-weight: normal;
+  font-size: 30px;
+  color: #66BFBF;
+}
+.topimage
+{
+  height: 480px;
+}
+.cloud{
+  height: 100px;
+}
+.mid{
+  background-color: #f1f6f9;
+  }
+.profile{
+  padding: 50px;
+}
+  .profile_pic{
+    height: 300px;
+  }
+  .skills{
+    padding-top: 50px;
+  }
+  .skill1{
+    height: 300px;
+  }
+  .skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+  }
+  .skill_img1{
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+  }
+  .skill_img2{
+    width: 30%;
+    float: right;
+    margin-left: 30px;
+  }
+  .contact-me{
+    padding: 50px;
+  }
+
+  .btn {
+  	background:linear-gradient(to bottom, #66BFBF 5%, #66BFBF 100%);
+  	background-color:#66BFBF;
+  	border-radius:15px;
+  	border:1px solid #66BFBF;
+  	display:inline-block;
+  	cursor:pointer;
+  	color:white;
+  	font-family:Arial;
+  	font-size:17px;
+  	padding:7px 25px;
+  	text-decoration:none;
+  }
+  .btn:hover {
+  	background-color:#bab1ba;
+
+  }
+  .btn:active {
+  	position:relative;
+  	top:1px;
+  }
+
+.bottom{
+  background-color: #66BFBF;
+  padding: 50px;
+  }.footer-link{
+    color: #11999E;
+    font-family: sans-serif;
+  }
+  .copyright{
+    color: white;
+    padding-top: 20px;
+  }
